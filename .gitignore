@@ -1,0 +1,30 @@
+# Ignore credentials file
+credentials.json
+
+# Ignore token file
+token.json
+
+# Ignore Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Ignore Go coverage files
+*.out
+
+# Ignore Go vendor directory
+vendor/
+
+# Ignore IDE/editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore other common files
+*.log
+*.tmp
+.DS_Store
